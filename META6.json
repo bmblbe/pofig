@@ -1,0 +1,16 @@
+{
+    "perl": "6.c",
+    "name": "Pofig",
+    "api" : "1",
+    "auth": "github:bmblbe",
+    "version": "1.0.0",
+    "description": "Detect system parameters and features",
+    "authors": [ "Oleksii Cherniavskyi" ],
+    "license": "Artistic-2.0",
+    "provides": {
+        "Pofig" : "lib/Pofig.rakumod"
+    },
+    "depends": [ "POSIX:from<Perl5>" ],
+    "tags": [ "Pofig" ],
+    "source-url": "https://github.com/bmblbe/pofig.git"
+}
