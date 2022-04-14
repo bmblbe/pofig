@@ -1,6 +1,5 @@
 #!/usr/bin/env raku
 
-use lib <.>;
 use Pofig;
 
 say "os name: " ~ os-name;

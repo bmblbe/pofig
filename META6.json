@@ -8,9 +8,10 @@
     "authors": [ "Oleksii Cherniavskyi" ],
     "license": "Artistic-2.0",
     "provides": {
-        "Pofig" : "lib/Pofig.rakumod"
+        "Pofig" : "lib/Pofig.rakumod",
+        "pofig" : "bin/pofig"
     },
-    "depends": [ "POSIX:from<Perl5>" ],
+    "depends": [ "Inline::Perl5" ],
     "tags": [ "Pofig" ],
     "source-url": "https://github.com/bmblbe/pofig.git"
 }
