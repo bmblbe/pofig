@@ -13,5 +13,5 @@
     },
     "depends": [ "Inline::Perl5" ],
     "tags": [ "Pofig" ],
-    "source-url": "https://github.com/bmblbe/pofig.git"
+    "source-url": "git@github.com:bmblbe/pofig.git"
 }
